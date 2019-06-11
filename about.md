@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+NDU PhD candidate.
 
 ### More Information
 
